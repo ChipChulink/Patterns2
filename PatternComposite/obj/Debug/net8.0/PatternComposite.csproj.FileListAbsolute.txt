@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\bin\Debug\net8.0\PatternComposite.exe
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\bin\Debug\net8.0\PatternComposite.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\bin\Debug\net8.0\PatternComposite.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\bin\Debug\net8.0\PatternComposite.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\bin\Debug\net8.0\PatternComposite.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\refint\PatternComposite.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\PatternComposite.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternComposite\obj\Debug\net8.0\ref\PatternComposite.dll
