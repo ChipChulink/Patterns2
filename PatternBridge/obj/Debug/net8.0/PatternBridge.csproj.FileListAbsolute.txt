@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\bin\Debug\net8.0\PatternBridge.exe
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\bin\Debug\net8.0\PatternBridge.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\bin\Debug\net8.0\PatternBridge.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\bin\Debug\net8.0\PatternBridge.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\bin\Debug\net8.0\PatternBridge.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\refint\PatternBridge.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\PatternBridge.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternBridge\obj\Debug\net8.0\ref\PatternBridge.dll
