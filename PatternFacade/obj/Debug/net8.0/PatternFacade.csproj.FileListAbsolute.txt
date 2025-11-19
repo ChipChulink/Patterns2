@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\bin\Debug\net8.0\PatternFacade.exe
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\bin\Debug\net8.0\PatternFacade.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\bin\Debug\net8.0\PatternFacade.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\bin\Debug\net8.0\PatternFacade.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\bin\Debug\net8.0\PatternFacade.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\refint\PatternFacade.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\PatternFacade.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternFacade\obj\Debug\net8.0\ref\PatternFacade.dll
