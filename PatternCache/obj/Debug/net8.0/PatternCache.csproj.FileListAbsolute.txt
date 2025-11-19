@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\bin\Debug\net8.0\PatternCache.exe
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\bin\Debug\net8.0\PatternCache.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\bin\Debug\net8.0\PatternCache.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\bin\Debug\net8.0\PatternCache.dll
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\bin\Debug\net8.0\PatternCache.pdb
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.dll
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\refint\PatternCache.dll
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.pdb
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\PatternCache.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\Patterns2\PatternCache\obj\Debug\net8.0\ref\PatternCache.dll
