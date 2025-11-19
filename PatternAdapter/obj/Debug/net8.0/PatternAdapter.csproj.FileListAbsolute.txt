@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\bin\Debug\net8.0\PatternAdapter.exe
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\bin\Debug\net8.0\PatternAdapter.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\bin\Debug\net8.0\PatternAdapter.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\bin\Debug\net8.0\PatternAdapter.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\bin\Debug\net8.0\PatternAdapter.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\refint\PatternAdapter.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\PatternAdapter.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternAdapter\obj\Debug\net8.0\ref\PatternAdapter.dll
