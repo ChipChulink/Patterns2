@@ -1,0 +1,14 @@
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\bin\Debug\net8.0\PatternDecorator.exe
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\bin\Debug\net8.0\PatternDecorator.deps.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\bin\Debug\net8.0\PatternDecorator.runtimeconfig.json
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\bin\Debug\net8.0\PatternDecorator.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\bin\Debug\net8.0\PatternDecorator.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.AssemblyInfoInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.AssemblyInfo.cs
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\refint\PatternDecorator.dll
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.pdb
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\PatternDecorator.genruntimeconfig.cache
+C:\Users\Happy\Documents\Docs\Patterns\PatternDecorator\obj\Debug\net8.0\ref\PatternDecorator.dll
